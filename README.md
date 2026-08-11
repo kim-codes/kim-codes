@@ -4,4 +4,4 @@
  
 ## find me online 
 
- [linkedin](https://linkedin.com/in/kimcodes)  :space_invader: | [stackoverflow](https://stackoverflow.com/users/6696446/kimcodes) :rocket: | [dev.to](https://dev.to/kimcodes) :unicorn:
+ [linkedin](https://linkedin.com/in/kimcodes)  :space_invader: | [stackoverflow](https://stackoverflow.com/users/6696446/kimcodes) :rocket: | [dev.to](https://dev.to/kimcodes) 
