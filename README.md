@@ -12,7 +12,7 @@
 [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white)](https://medium.com/@kimcodes) | 
 [![Devpost](https://img.shields.io/badge/Devpost-003E54?logo=devpost&logoColor=white)](https://devpost.com/kimcodes)
 
-## my latest idea lab
+### my latest idea lab
 * [searching for meaning](https://kim.codes/studio.html) — an interactive experiment in vector search, embeddings, and nearest neighbors.
 
 
