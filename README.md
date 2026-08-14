@@ -2,9 +2,9 @@
 
  <img src="https://octodex.github.com/images/stormtroopocat.png" height="300px"> 
  
-## find me online 
+## spaces of the internet
 
-[kim.codes](https://kim.codes)
+[kim.codes ↗](https://kim.codes)
 
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/kimcodes) | 
  [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6696446/kimcodes) | 
