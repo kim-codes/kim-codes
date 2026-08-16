@@ -6,7 +6,7 @@
 
 <img align="right" height="280px" src="https://github.com/kim-codes/kim-codes/blob/master/kim-octocat-clubmate.png" alt="kim-codes github character">
 
-[kim.codes ↗](https://kim.codes)
+I build things, break things, and write about both [kim.codes ↗](https://kim.codes)
 
 ### what i cooked up in the lab
 * [searching for meaning](https://kim.codes/studio.html) — an interactive experiment in vector search, embeddings, and nearest neighbors.
