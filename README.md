@@ -10,6 +10,7 @@ I build things, break things, and write about both [kim.codes ↗](https://kim.c
 
 ### what i cooked up in the lab
 * [searching for meaning](https://kim.codes/studio.html) — an interactive experiment in vector search, embeddings, and nearest neighbors.
+* [program pulse](https://kim.codes/dashboard.html) — an interactive look at turning data from messy to dashboard ready. 
 
 
 ### my notebook 
