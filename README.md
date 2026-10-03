@@ -9,13 +9,14 @@
 I build things, break things, and write about both [kim.codes ↗](https://kim.codes)
 
 ### what i cooked up in the lab
-* [searching for meaning](https://kim.codes/studio.html) — an interactive experiment in vector search, embeddings, and nearest neighbors.
-* [program pulse](https://kim.codes/dashboard.html) — an interactive look at turning data from messy to ready. 
+* [searching for meaning](https://kim.codes/labs/studio.html) — an interactive experiment in vector search, embeddings, and nearest neighbors.
+* [program pulse](https://kim.codes/labs/dashboard.html) — an interactive look at turning data from messy to ready. 
 
 
 ### my notebook 
-* [thinking through technology](https://kim.codes/technical-storytelling.html) – good stories teach. great stories stick.
-* [things I've changed my mind about](https://kim.codes/insights.html) – just some things that experience has reshaped for me.
+* [thinking through technology](https://kim.codes/essays/technical-storytelling.html) – good stories teach. great stories stick.
+* [learning through APIs](https://kim.codes/essays/learning-through-apis.html) – what an old workshop still gets right.
+* [things I've changed my mind about](https://kim.codes/essays/insights.html) – just some things that experience has reshaped for me.
 
 ### from the public archives 
 * [deploy Vue Apps to Azure in 7 mins](https://www.youtube.com/watch?v=OWzQqIfXKT8)
