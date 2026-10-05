@@ -1,8 +1,9 @@
 **These aren't the repos you're looking for**
 
  <img src="https://octodex.github.com/images/stormtroopocat.png" height="300px"> 
- 
-## signals from the outer rim
+
+##
+I work across developer relations, product marketing, and GTM. Usually somewhere between figuring out how something works and figuring out how to explain it.
 
 <img align="right" height="280px" src="https://github.com/kim-codes/kim-codes/blob/master/kim-octocat-clubmate.png" alt="kim-codes github character">
 
@@ -10,10 +11,12 @@ I build things, break things, and write about both [kim.codes ↗](https://kim.c
 
 ### what i cooked up in the lab
 * [searching for meaning](https://kim.codes/labs/studio.html) — an interactive experiment in vector search, embeddings, and nearest neighbors.
+* [taking apart jwts](https://kim.codes/labs/jwt.html) — an interactive look at JWTs, claims, and what an API checks before saying yes.
 * [program pulse](https://kim.codes/labs/dashboard.html) — an interactive look at turning data from messy to ready. 
 
 
 ### my notebook 
+* [helping developers get unstuck](https://kim.codes/stories/dev-support.html) - what debugging auth problems taught me about product
 * [thinking through technology](https://kim.codes/essays/technical-storytelling.html) – good stories teach. great stories stick.
 * [learning through APIs](https://kim.codes/essays/learning-through-apis.html) – what an old workshop still gets right.
 * [things I've changed my mind about](https://kim.codes/essays/insights.html) – just some things that experience has reshaped for me.
