@@ -16,7 +16,7 @@ I build things, break things, and write about both [kim.codes ↗](https://kim.c
 
 
 ### my notebook 
-* [helping developers get unstuck](https://kim.codes/stories/dev-support.html) - what debugging auth problems revealed about developer experience.
+* [helping developers get unstuck](https://kim.codes/stories/dev-support.html) - developer experience from the other side of an authentication error.
 * [the login problem](https://kim.codes/essays/the-login-problem.html)- what IAM taught me about asking better questions.
 * [thinking through technology](https://kim.codes/essays/technical-storytelling.html) – good stories teach. great stories stick.
 * [learning through APIs](https://kim.codes/essays/learning-through-apis.html) – what an old workshop still gets right.
