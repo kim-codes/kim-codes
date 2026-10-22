@@ -26,6 +26,7 @@ I build things, break things, and write about both [kim.codes ↗](https://kim.c
 ### from the public archives 
 * [deploy Vue Apps to Azure in 7 mins](https://www.youtube.com/watch?v=OWzQqIfXKT8)
 * [Hacktoberfest with Auth0 2018](https://auth0.com/blog/celebrate-hacktoberfest-with-auth0/)
+* [quickly preview an HTML site in Codespaces](https://gist.github.com/kim-codes/6b1f1b873633dbada63e466f50848316)
 
 <!--
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://linkedin.com/in/kimcodes) | 
