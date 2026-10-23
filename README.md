@@ -15,8 +15,8 @@ I build things, break things, and write about both [kim.codes ↗](https://kim.c
 * [token peek, v1.0](https://kim.codes/token-peek/) — a tool for decoding JWTs and inspecting claims
 * [program pulse](https://kim.codes/labs/dashboard.html) — an interactive look at turning data from messy to ready. 
 
-
 ### my notebook 
+* [debugging 401 vs 403](https://kim.codes/stories/dev-support.html) - a quick cheatsheet to figuring out what's going on.
 * [helping developers get unstuck](https://kim.codes/stories/dev-support.html) - developer experience from the other side of an authentication error.
 * [the login problem](https://kim.codes/essays/the-login-problem.html)- what IAM taught me about asking better questions.
 * [thinking through technology](https://kim.codes/essays/technical-storytelling.html) – good stories teach. great stories stick.
