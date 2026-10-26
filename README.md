@@ -12,8 +12,8 @@ I build things, break things, and write about both [kim.codes ↗](https://kim.c
 ### what i cooked up in the lab
 * [searching for meaning](https://kim.codes/labs/studio.html) — an interactive experiment in vector search, embeddings, and nearest neighbors.
 * [taking apart jwts](https://kim.codes/labs/jwt.html) — an interactive look at JWTs, claims, and what an API checks before saying yes.
-* [token peek, v1.0](https://kim.codes/token-peek/) — a tool for decoding JWTs and inspecting claims
-* [program pulse](https://kim.codes/labs/dashboard.html) — an interactive look at turning data from messy to ready. 
+* [token peek, v1.0](https://kim.codes/token-peek/) — a tool for decoding JWTs and inspecting claims.
+* [program pulse](https://kim.codes/labs/dashboard.html) — an interactive look at turning program data into action. 
 
 ### my notebook 
 * [debugging 401 vs 403](https://kim.codes/stories/dev-support.html) - a quick cheatsheet to figuring out what's going on.
